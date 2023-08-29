@@ -1,0 +1,41 @@
+.content-white {
+  padding: 50px;
+  width: 50%;
+  height: 500px;
+}
+
+.text-card {
+  font-size: 35px;
+}
+
+.buttom-conocenos {
+  width: 75%;
+  height: 15%;
+  box-shadow: 10px 5px 15px;
+}
+
+.content-gray {
+  background-color: #575756;
+}
+
+.title-gray {
+  font-weight: 300;
+}
+
+.buttom-ingresa {
+  margin-top: 10px;
+  width: 48%;
+  height: 12%;
+  box-shadow: 10px 5px 15px white;
+}
+
+.content-title {
+  margin-top: 3%;
+}
+
+.title {
+  width: 110%;
+  font-size: 55px;
+  border-bottom: 1px solid rgb(0, 0, 0);
+  margin-bottom: 15%;
+}

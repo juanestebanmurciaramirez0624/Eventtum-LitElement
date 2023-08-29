@@ -1,0 +1,29 @@
+.content-card {
+  height: 300px;
+}
+
+.cards {
+  width: 33%;
+  margin: 10px;
+  background: rgb(87, 87, 86);
+  background: linear-gradient(74deg, rgba(87, 87, 86, 1) 40%, rgba(87, 87, 86, 1) 40%, rgba(0, 0, 0, 1) 40%, rgba(0, 0, 0, 1) 40%);
+}
+
+.card-title {
+  margin-right: 7.5%;
+}
+
+.title-card {
+  font-weight: bold;
+  border-bottom: 2px solid white
+}
+
+.card-button {
+  width: 35%;
+  margin-right: 7.5%;
+}
+
+.card-text {
+  width: 50%;
+}
+
